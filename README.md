@@ -1,3 +1,3 @@
-#Please find the release apk build in root folder
+# Please find the release apk build in root folder
 
-##app-release.apk
+## app-release.apk
